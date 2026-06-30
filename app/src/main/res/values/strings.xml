@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Flonapedia</string>
+    <string name="hewan">Hewan</string>
+    <string name="tumbuhan">Tumbuhan</string>
+    <string name="favorit">Favorit</string>
+    <string name="pencarian">Pencarian</string>
+
+    <string name="profil_nama">Siti Hanifah</string>
+    <string name="profil_nim">2410501064</string>
+    <string name="profil_kelas">B - D3 Sistem Informasi</string>
+    <string name="profil_matkul">Pemrograman Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

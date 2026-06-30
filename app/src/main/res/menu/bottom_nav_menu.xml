@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_hewan"
+        android:icon="@drawable/baseline_pets_24"
+        android:title="@string/hewan" />
+    <item
+        android:id="@+id/nav_tumbuhan"
+        android:icon="@drawable/baseline_eco_24"
+        android:title="@string/tumbuhan" />
+</menu>
